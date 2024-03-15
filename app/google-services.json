@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023955652527",
+    "project_id": "taskharbor-875bd",
+    "storage_bucket": "taskharbor-875bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023955652527:android:398dc2d982a36bb8dbe95a",
+        "android_client_info": {
+          "package_name": "com.abhiiscoding.taskharbor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxv5T-R5zx7Ggq-WjG73JKZuOvuVP7N44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
